@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#root {
+  height: 100vh;
+  overflow: hidden;
+  background-image: url('./assets/bckg.svg');
+  background-repeat: no-repeat;
+  background-size: 560px;
+  background-position-y: center;
+  background-position-x: center;
+  background-color: #001628;
+}

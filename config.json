@@ -1,0 +1,6 @@
+{
+  "apiEndpoint_FireBase": "https://crypto-project-22d7f-default-rtdb.europe-west1.firebasedatabase.app/",
+  "apiAuthEndpoint_FireBase": "https://identitytoolkit.googleapis.com/v1/",
+  "apiCoingecko": "https://api.coingecko.com/api/v3/",
+  "isFireBase": true
+}
